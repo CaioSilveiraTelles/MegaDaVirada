@@ -1,6 +1,6 @@
 # mega-sena-cli [![Build Status](https://travis-ci.org/ceasbz/mega-sena-cli.svg?branch=master)](https://travis-ci.org/cauealves/mega-sena-cli) 
 
-> Verifica se os números foram sorteados nos jogos anteriores da Mega Sena.
+> Verifica se os números foram sorteados nos jogos anteriores da Mega Sena e Mega da Virada.
 
 <br />
 
