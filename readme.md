@@ -1,5 +1,5 @@
-# mega-sena-cli
-> Verifica se os números foram sorteados nos jogos anteriores da Mega Sena e Mega da Virada.
+# Mega-Da-Virada 2020
+> Verifica se os números foram sorteados nos jogos anteriores Mega da Virada.
 
 <br />
 
