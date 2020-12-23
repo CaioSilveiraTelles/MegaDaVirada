@@ -29,4 +29,4 @@ $ npm i --global mega-sena-cli
 
 ## License
 
-MIT © [Cauê Alves](./LICENSE)
+MIT ©(./LICENSE)
