@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  <img width="80%" src="./money.gif?raw=true" />
+  <img width="80%" src="mega.png" />
 </p>
 
 
